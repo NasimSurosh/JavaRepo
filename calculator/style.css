@@ -1,0 +1,48 @@
+body{
+    background-color: aquamarine;
+    background-position: center;
+    background-size: cover;
+}
+.form {
+   width: 400px;
+   height: 400px;
+   margin: 20px auto 0;
+   padding: 10px;
+   background-color: blanchedalmond;
+   text-align: center;
+   border-radius: 20px;
+   box-shadow: inset;
+}
+.amount{
+   margin: 10px;
+   box-sizing: border-box;
+   border-radius: 5px;
+   width: 100px;
+}
+.discount {
+    margin-left: 55px;
+    margin-right: 20px;
+   box-sizing: border-box;
+   border-radius: 5px;
+   width: 50px;
+}
+.damount{
+    margin:0 15px;
+   box-sizing: border-box;
+   border-radius: 5px;
+   width: 100px;
+}
+.pay {
+    margin-left: 63px;
+    margin-right: 18px;
+   box-sizing: border-box;
+   border-radius: 5px;
+   width: 100px;
+   
+}
+.btn{
+   border-radius: 5px;
+   width: 65px;
+   text-align: center;
+   text-decoration: dashed;
+}
