@@ -9,9 +9,6 @@ public class MainGetAndSetter {
 		getSet.setAge(34);
 		getSet.setName("yalda");
 		System.out.println(getSet.getName() + " , " + getSet.getAge());
-		
-		
-
 	}
 
 }
